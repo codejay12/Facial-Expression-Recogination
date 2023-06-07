@@ -1,6 +1,10 @@
-# Facial-Expression-Recogination🥰
+# Facial-Expression-Recogination✨
+![3-Figure1-1](https://github.com/codejay12/Facial-Expression-Recogination/assets/97224357/bbadf9c6-8449-4f18-be11-08b5ea00ede3)
+
+ 
 Facial expression recognition using PyTorch is a powerful computer vision technique that allows machines to identify and understand the emotions conveyed by human faces. PyTorch, a popular deep learning framework, provides a flexible and efficient platform for building and training facial expression recognition models.
- ![alt text]()![download](https://github.com/codejay12/Facial-Expression-Recogination/assets/97224357/93da52a4-5ce3-42df-8ef9-39742585241c)
+
+
 
 
 **The process of facial expression recognition using PyTorch typically involves the following steps:**
